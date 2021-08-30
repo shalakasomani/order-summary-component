@@ -22,13 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-desktop.jpg)
-![](./images/screenshot-mobile.jpg)
-
-
+![](https://github.com/shalakasomani/order-summary-component/blob/main/images/screenshot-desktop.png)
+![](https://github.com/shalakasomani/order-summary-component/blob/main/images/screenshot-mobile.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/shalakasomani/order-summary-component](https://github.com/shalakasomani/order-summary-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
